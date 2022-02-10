@@ -1,6 +1,8 @@
 # Menorah Processing Sketch
 
-I wrote this Processing sketch back in 2010 as a final project for ISE 108. 
+![Screenshot of menorah.](menorah.png)
+
+I wrote this Processing sketch back in 2010 as a final project for ISE 108.
 
 It it a fully functioning menorah that responds to keyboard and mouse input.
 
